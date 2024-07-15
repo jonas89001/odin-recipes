@@ -1,10 +1,20 @@
 #title {
-    text-align:center;
-    font-family:'Courier New', Courier, Arial;
+    font-family: 'Tahoma', Courier, Arial;
     font-weight:bold;
     font-size: 50px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align:center;
+    background: #B5838D;
 }
 
 .link {
-    font-size: 40px;
+    font-size: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    padding: 30px
+}
+
+body {
+    text-align:center;
+    background: #B5838D;
 }
